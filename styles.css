@@ -1,0 +1,97 @@
+body {
+    background-color: black;
+    
+}
+#botonWhatsApp {
+    margin-top: 20px;
+    padding: 6px 8px; /* controlar el tamaño del boton*/
+    background-color: #25D366; /* Color de WhatsApp */
+    color: black;
+    border: 1px solid white; /* Añadí un borde para mejor visibilidad */
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex; /* Usar Flexbox */
+    align-items: center; /* Centrar verticalmente */
+    justify-content: center; /* Centrar horizontalmente */
+    gap: 6px; /* Espacio entre la imagen y el texto */
+}
+#opccionusuario{
+    padding: 3px 12px;
+}
+.redes-png{
+    width: 47px;
+}
+.wapp {
+    width: 25px;
+    height: auto;
+}
+.ing {
+    width: 20px;
+}
+.inicio {
+    background-color: yellow;
+}
+.sub1 {
+    color: gold;
+}
+.sub2 {
+    color: whitesmoke;
+}
+h4 {
+    color: whitesmoke;
+}
+h5 {
+    color: whitesmoke;
+}
+.escriwapp {
+    color: yellow;
+}
+
+/* .contenido {
+    display: none;
+} */
+
+.netflix {
+    color: rgb(231, 38, 38);    
+}
+.netpng {
+    width: 200px;
+}
+
+.amazon {
+    color: rgb(47, 161, 236); 
+}
+.amapng {
+    width: 200px;  
+}
+
+.hbo {
+    color: blueviolet;    
+}
+.hbopng {
+    width: 200px;
+}
+
+.spo {
+    color: rgb(77, 204, 77);    
+}
+.spopng {
+    width: 200px;
+}
+
+.disney {
+    color: aqua;   
+}
+.dispng {
+    width: 190px;
+    height: 110px;
+}
+
+.info {
+    color: rgb(255, 153, 0);
+}
+
+p {
+    color: whitesmoke;
+}
+
